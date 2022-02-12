@@ -1,0 +1,23 @@
+.avatar-xl {
+  width: 120px;
+  height: 120px;
+}
+
+.avatar img {
+  object-fit: cover;
+  object-position: center;
+  height: 100%;
+}
+
+.preview-avatar {
+  width: 150px;
+  height: 150px;
+  object-position: center;
+  object-fit: cover;
+}
+
+.card-profile-image img {
+  max-width: none;
+  width: 180px;
+  height: 180px;
+}
