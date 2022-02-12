@@ -22,6 +22,8 @@ Frontend:
 
 2. npm install
 
-3. npm start
+3. cd src && cp env.js.example env.js
 
-4. check package.json homepage = url run start
+4. npm start
+
+5. check package.json homepage = url run start
